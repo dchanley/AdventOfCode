@@ -1,0 +1,8 @@
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\bin\Debug\AdventDay2.exe.config
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\bin\Debug\AdventDay2.exe
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\bin\Debug\AdventDay2.pdb
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\obj\Debug\AdventDay2.csproj.AssemblyReference.cache
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\obj\Debug\AdventDay2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\obj\Debug\AdventDay2.csproj.CoreCompileInputs.cache
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\obj\Debug\AdventDay2.exe
+C:\Users\Stilgar2300\source\repos\AdventDay2\AdventDay2\obj\Debug\AdventDay2.pdb
