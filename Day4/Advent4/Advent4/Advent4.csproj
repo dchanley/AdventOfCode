@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4BC686C4-4D5B-4CF9-B7E9-00BDB2425121}</ProjectGuid>
+    <ProjectGuid>{976ED0C3-DBB4-4C9B-A463-1CDDCD589808}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Advent4</RootNamespace>
     <AssemblyName>Advent4</AssemblyName>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Part1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

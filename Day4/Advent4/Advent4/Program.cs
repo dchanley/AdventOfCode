@@ -10,6 +10,7 @@ namespace Advent4
     {
         static void Main(string[] args)
         {
+            Part1 part1 = new Part1();
         }
     }
 }

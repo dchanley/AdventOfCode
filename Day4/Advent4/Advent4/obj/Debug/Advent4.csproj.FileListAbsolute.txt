@@ -1,0 +1,7 @@
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\bin\Debug\Advent4.exe.config
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\bin\Debug\Advent4.exe
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\bin\Debug\Advent4.pdb
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\obj\Debug\Advent4.csproj.AssemblyReference.cache
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\obj\Debug\Advent4.csproj.CoreCompileInputs.cache
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\obj\Debug\Advent4.exe
+C:\Repo\AdventOfCode\AdventOfCode\Day4\Advent4\Advent4\obj\Debug\Advent4.pdb
