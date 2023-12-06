@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0DF3FD73-2F28-4A13-BEED-524E69C43CCC}</ProjectGuid>
+    <ProjectGuid>{ED719A54-8E6A-440E-B3DB-9ABE99BFE5DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Advent3</RootNamespace>
-    <AssemblyName>Advent3</AssemblyName>
+    <RootNamespace>Advent6</RootNamespace>
+    <AssemblyName>Advent6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ElfDataObject.cs" />
-    <Compile Include="Part1.cs" />
-    <Compile Include="Part2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

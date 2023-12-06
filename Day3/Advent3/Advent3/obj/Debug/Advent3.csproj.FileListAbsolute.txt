@@ -6,3 +6,10 @@ C:\Repo\Advent\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.csproj.Sugges
 C:\Repo\Advent\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.csproj.CoreCompileInputs.cache
 C:\Repo\Advent\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.exe
 C:\Repo\Advent\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.pdb
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\bin\Debug\Advent3.exe.config
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\bin\Debug\Advent3.exe
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\bin\Debug\Advent3.pdb
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.csproj.AssemblyReference.cache
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.csproj.CoreCompileInputs.cache
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.exe
+C:\Repo\AdventOfCode\AdventOfCode\Day3\Advent3\Advent3\obj\Debug\Advent3.pdb
